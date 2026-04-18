@@ -25,7 +25,7 @@ app = Flask(__name__)
 
 # ── CONFIG ──────────────────────────────────────────────────
 # Change this to a strong secret password for admin access
-ADMIN_PASSWORD = "your_admin_password_here"
+ADMIN_PASSWORD = "Ararld@2341"
 DATA_FILE = "licenses.json"
 
 # ── DATA STORAGE ────────────────────────────────────────────
